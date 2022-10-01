@@ -4,7 +4,7 @@ arquivo = open("listadiretorio.txt")
 
 linhas = arquivo.readlines()
 
-url = "http://g1.com.br/"
+url = "http://site.com.br"
 
 for linha in linhas:
     codigo = 404
